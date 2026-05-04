@@ -94,7 +94,7 @@ print("Result:", result)
 ```
 
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/22b46f05-d114-47b8-840a-b2b1a5278e9d)
+<img width="1919" height="741" alt="image" src="https://github.com/user-attachments/assets/bb73b419-92f2-4599-beee-4da0a201fe37" />
 
 ### RESULT:
 Thus, the Python program to calculate cylinder volume and integrate it with an LLM chat system using function-calling was successfully designed and executed.
